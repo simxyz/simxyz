@@ -19,10 +19,10 @@ Hi, I'm SIM, a java developer from Germany!
 
 <code><img height="20" src="https://github.com/simxyz/simxyz/blob/main/Media/java-logo.jpg"></code>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/simxyz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=simxyz&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anurag's github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/simxyz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simxyz&layout=compact&theme=tokyonight" />
 </a>
 <a href="https://github.com/simxyz/JDADiscordBot">

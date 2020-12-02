@@ -23,7 +23,3 @@ Hi, I'm SIM, a java developer from Germany!
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simxyz&theme=tokyonight&layout=compact&hide=css" height="170" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=simxyz&theme=tokyonight&show_icons=true" height="170" />
 </div>
-
-<a href="https://github.com/simxyz/JDADiscordBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simxyz&repo=JDADiscordBot&theme=material-palenight" />
-</a> 

@@ -15,7 +15,7 @@ Hi, I'm SIM, a java developer from Germany!
 - 💼 LevelSystem is a nice Discord bot [Invite](https://discord.com/oauth2/authorize?client_id=754271392643416104&scope=bot&permissions=268823616)
 - 💬 My Top.gg Profil [here](https://top.gg/user/425910582886006784)
 
-**Languages and Tools:**  
+**Languages:**  
 
 <code><img height="20" src="https://github.com/simxyz/simxyz/blob/main/Media/java-logo.jpg"></code>
 

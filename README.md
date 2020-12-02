@@ -25,3 +25,6 @@ Hi, I'm SIM, a java developer from Germany!
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simxyz&layout=compact&theme=tokyonight" />
 </a>
+<a href="https://github.com/simxyz/JDADiscordBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simxyz&repo=JDADiscordBot&theme=tokyonight" />
+</a>  

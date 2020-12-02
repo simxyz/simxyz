@@ -28,9 +28,6 @@ Hi, I'm SIM, a java developer from Germany!
 <a href="https://top.gg/bot/740154534860423229">
     <img src="https://top.gg/api/widget/740154534860423229.svg" alt="Knast" />
 </a>
-<a href="https://top.gg/bot/749337403247820902">
-    <img src="https://top.gg/api/widget/749337403247820902.svg" alt="Kakashi" />
-</a>
 
 <a href="https://github.com/simxyz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=simxyz&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anurag's github stats" />

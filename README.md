@@ -19,13 +19,6 @@ Hi, I'm SIM, a java developer from Germany!
 
 <code><img height="20" src="https://github.com/simxyz/simxyz/blob/main/Media/java-logo.jpg"></code>
 
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simxyz&theme=tokyonight&layout=compact&hide=css" height="170" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=simxyz&theme=tokyonight&show_icons=true" height="170" />
-</div>
-
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=simxyz&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anurag's github stats" />
 </a>

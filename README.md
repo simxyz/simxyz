@@ -1,4 +1,4 @@
-### Hi there, I'm [SIM!](https://github.com) 👋
+### Hi there, I'm [SIM!](https://github.com/simxyz) 👋
 
 <a href="https://discord.gg/DX4ABeQ">
   <img align="left" alt="Coding Bots" width="21px" src="https://raw.githubusercontent.com/simxyz/simxyz/e4f90a6748438cb3f9b35970c89af4fb833f2ed6/Media/discord-logo.svg" />

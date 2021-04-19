@@ -19,22 +19,9 @@ Hi, I'm SIM, a java developer from Germany!
 
 <code><img height="20" src="https://github.com/simxyz/simxyz/blob/main/Media/java-logo.jpg"></code>
 
-**Top.gg Bots:**
-
-
-<a href="https://top.gg/bot/754271392643416104">
-    <img src="https://top.gg/api/widget/754271392643416104.svg" alt="LevelSystem" />
-</a>
-<a href="https://top.gg/bot/740154534860423229">
-    <img src="https://top.gg/api/widget/740154534860423229.svg" alt="Knast" />
-</a>
-
 <a href="https://github.com/simxyz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=simxyz&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/simxyz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simxyz&layout=compact&theme=tokyonight" />
 </a>
-<a href="https://github.com/simxyz/JDADiscordBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simxyz&repo=JDADiscordBot&theme=tokyonight" />
-</a>  
